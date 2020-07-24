@@ -1,0 +1,18 @@
+When deoxyribose molecules bind in DNA, a phosphodiester bond is formed.	T
+DNA Polymerase III enzymes build in the 3' to 5' direction.	F
+Uracil complements thymine in the building of RNA.	F
+Prokaryotic chromosomes are linear and have a single origin of replication.	F
+In eukaryotic cells, genes typically code for the sequence of one single polypeptide.	T
+Prokaryotic chromosomes have multiple origins of replication.	F
+Deleting a single base from an mRNA molecule usually alters one codon only.	F
+Ribosomes are formed from small and large subunits at the start of translation.	T
+Translation in bacteria may begin before transcription is complete.	T
+The two strands of an RNA molecule run in opposite directions and called antiparallel.	F
+DNA polymerase cannot initiate synthesis of a new DNA strand; they can only add bases to an existing strand.	T
+Structural genes typically code for the tertiary structure of proteins.	F
+New tRNA molecules bind to mRNA as they enter A-site of the ribosome.	T
+During mRNA transcript processing, a methylated GTP is added to the 3' end of the transcript.	F
+Nucleic acids are constructed using the energy from nucleoside diphosphates.	T
+Structural genes typically code for the primary structure of proteins.	T
+tRNA molecules carrying the next amino acid bind complementary to rRNA as they enter the A-site of the ribosome.	F
+Eukaryotic genes may be controlled by dozens of different transcription factors.	T
